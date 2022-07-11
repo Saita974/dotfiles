@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = m.sansig@gmail.com
+	name = matthias sansig
